@@ -2137,6 +2137,15 @@ export const Newegg: Store = {
       url: 'https://www.newegg.com/p/N82E16814126776',
       itemNumber: '14-126-776',
     },
+    {
+      brand: 'amd',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126776',
+      model: '9950x',
+      series: 'ryzen9950x',
+      url: 'https://www.newegg.com/p/N82E16819113841',
+      itemNumber: '19-113-841',
+    },
   ],
   name: 'newegg',
   country: 'US',
