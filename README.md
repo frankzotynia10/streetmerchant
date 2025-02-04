@@ -30,7 +30,7 @@ For more information and customization, visit [jef.buzz/streetmerchant/getting-s
 
 ## run with pm2
 
-'''shell
+```shell
 pm2 start pm2.config.js
-'''
+```
 
