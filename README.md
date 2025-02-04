@@ -27,10 +27,3 @@ cd streetmerchant && npm i && npm run start
 
 For more information and customization, visit [jef.buzz/streetmerchant/getting-started](https://jef.buzz/streetmerchant/getting-started).
 
-
-## run with pm2
-
-```shell
-pm2 start pm2.config.js
-```
-
