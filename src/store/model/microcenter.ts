@@ -452,6 +452,60 @@ for (const microCenterLocation of microCenterLocations) {
         series: '4090',
         url: `https://www.microcenter.com/product/671031/msi-nvidia-geforce-rtx-4090-gaming-x-slim-overclocked-triple-fan-24gb-gddr6x-pcie-40-graphics-card/?storeid=${storeId}`,
       },
+      {
+        brand: 'asus',
+        model: 'astral',
+        series: '5090',
+        url: `https://www.microcenter.com/product/690032/asus-nvidia-geforce-rtx-5090-rog-astral-overclocked-triple-fan-32gb-gddr7-pcie-50-graphics-card/?storeid=${storeId}`,
+      },
+      {
+        brand: 'asus',
+        model: 'astral oc',
+        series: '5090',
+        url: `https://www.microcenter.com/product/690499/asus-nvidia-geforce-rtx-5090-astral-lc-liquid-cooled-32gb-gddr7-pcie-50-graphics-card/?storeid=${storeId}`,
+      },
+      {
+        brand: 'asus',
+        model: 'tuf',
+        series: '5090',
+        url: `https://www.microcenter.com/product/690037/asus-nvidia-geforce-rtx-5090-tuf-gaming-triple-fan-32gb-gddr7-pcie-50-graphics-card/?storeid=${storeId}`,
+      },
+      {
+        brand: 'asus',
+        model: 'tuf oc',
+        series: '5090',
+        url: `https://www.microcenter.com/product/690033/asus-nvidia-geforce-rtx-5090-tuf-gaming-overclocked-triple-fan-32gb-gddr7-pcie-50-graphics-card/?storeid=${storeId}`,
+      },
+      {
+        brand: 'msi',
+        model: 'ventus 3x oc',
+        series: '5090',
+        url: `https://www.microcenter.com/product/690491/msi-nvidia-geforce-rtx-5090-ventus-3x-overclocked-triple-fan-32gb-gddr7-pcie-50-graphics-card/?storeid=${storeId}`,
+      },
+      {
+        brand: 'msi',
+        model: 'gaming trio oc',
+        series: '5090',
+        url: `https://www.microcenter.com/product/690487/msi-nvidia-geforce-rtx-5090-gaming-trio-overclocked-triple-fan-32gb-gddr7-pcie-50-graphics-card/?storeid=${storeId}`,
+      },
+      {
+        brand: 'msi',
+        model: 'vanguard',
+        series: '5090',
+        url: `https://www.microcenter.com/product/690490/msi-nvidia-geforce-rtx-5090-vanguard-soc-launch-edition-overclocked-triple-fan-32gb-gddr7-pcie-50-graphics-card/?storeid=${storeId}`,
+      },
+      {
+        brand: 'msi',
+        model: 'suprim liquid soc',
+        series: '5090',
+        url: `https://www.microcenter.com/product/690466/msi-nvidia-geforce-rtx-5090-suprim-liquid-soc-overclocked-liquid-cooled-32gb-gddr7-pcie-50-graphics-card/?storeid=${storeId}`,
+      },
+      {
+        brand: 'amd',
+        model: '9950x',
+        series: 'ryzen9950x',
+        url: `https://www.microcenter.com/product/682197/amd-ryzen-9-9950x-granite-ridge-am5-430ghz-16-core-boxed-processor-heatsink-not-included/?storeid=${storeId}`,
+      },
     ]);
   }
 }
