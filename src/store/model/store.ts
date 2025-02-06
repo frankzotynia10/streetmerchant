@@ -101,6 +101,7 @@ export type Series =
   | 'foundation-silver-copper'
   | 'foundation-black-nickel'
   | 'foundation-black-copper'
+  | 'flex-silver'
 
 export type Model =
   | 'test:model'
@@ -339,6 +340,7 @@ export type Model =
   | 'xtreme'
   | 'signature-v3'
   | 'foundation'
+  | 'fittings'
 
 export type Link = {
   brand: Brand;

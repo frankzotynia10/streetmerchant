@@ -65,6 +65,12 @@ export const OptimusPC: Store = {
         series: 'foundation-black-copper',
         url: 'https://optimuspc.com/products/foundation-cpu-block-amd?variant=31139815718995',
       },
+      {
+        brand: 'optimus',
+        model: 'fittings',
+        series: 'flex-silver',
+        url: 'https://optimuspc.com/collections/fittings/products/flex-compression-fitting-satin-nickel-10-16mm?variant=16123644739633',
+      },
   ],
   name: 'optimuspc',
   country: 'US',
