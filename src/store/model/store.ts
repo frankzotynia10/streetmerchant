@@ -94,10 +94,10 @@ export type Series =
   | 'xboxss'
   | 'xboxsx'
   // optimus waterblocks
-  | 'silver nickel'
-  | 'silver copper'
-  | 'black nickel'
-  | 'black copper'
+  | 'silver-nickel'
+  | 'silver-copper'
+  | 'black-nickel'
+  | 'black-copper'
 
 export type Model =
   | 'test:model'
@@ -335,7 +335,7 @@ export type Model =
   | 'xlr8'
   | 'xtreme'
   //optimus
-  | 'signature v3'
+  | 'signature-v3'
   | 'foundation'
 
 export type Link = {
