@@ -4,12 +4,12 @@ export const OptimusPC: Store = {
   currency: '$',
   labels: {
     inStock: {
-      container: '.product-form__add-button',
-      text: ['add to cart'],
+      container: 'button.ajax-submit.action_button.add_to_cart',
+      text: ['Add to cart'],
     },
     outOfStock: {
-      container: '.product-form__add-button',
-      text: ['sold out', 'out of stock'],
+      container: 'span.sold_out',
+      text: ['Sold Out'],
     },
     maxPrice: {
       container: '.product__price',
