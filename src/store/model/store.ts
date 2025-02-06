@@ -93,11 +93,14 @@ export type Series =
   | 'unvr'
   | 'xboxss'
   | 'xboxsx'
-  // optimus waterblocks
-  | 'silver-nickel'
-  | 'silver-copper'
-  | 'black-nickel'
-  | 'black-copper'
+  | 'signature-v3-silver-nickel'
+  | 'signature-v3-silver-copper'
+  | 'signature-v3-black-nickel'
+  | 'signature-v3-black-copper'
+  | 'foundation-silver-nickel'
+  | 'foundation-silver-copper'
+  | 'foundation-black-nickel'
+  | 'foundation-black-copper'
 
 export type Model =
   | 'test:model'
@@ -334,7 +337,6 @@ export type Model =
   | 'xlr8 verto'
   | 'xlr8'
   | 'xtreme'
-  //optimus
   | 'signature-v3'
   | 'foundation'
 
