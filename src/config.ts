@@ -464,6 +464,7 @@ const store = {
       5080: envOrNumber(process.env.MAX_PRICE_SERIES_5080),
       5090: envOrNumber(process.env.MAX_PRICE_SERIES_5090),
       arc: envOrNumber(process.env.MAX_PRICE_SERIES_ARC),
+      'cpu-block': envOrNumber(process.env.MAX_PRICE_SERIES_CPU_BLOCK, 300),
       'a3-matx': envOrNumber(process.env.MAX_PRICE_SERIES_A3_MATX),
       'captcha-deterrent': 0,
       darkhero: envOrNumber(process.env.MAX_PRICE_SERIES_DARKHERO),
