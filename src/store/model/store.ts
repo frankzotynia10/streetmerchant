@@ -39,7 +39,9 @@ export type Brand =
   | 'sparkle'
   | 'ubiquiti'
   | 'xfx'
-  | 'zotac';
+  | 'zotac'
+  // optimus waterblocks
+  | 'optimus';
 
 export type Series =
   | 'test:series'
@@ -90,7 +92,12 @@ export type Series =
   | 'unvr-pro'
   | 'unvr'
   | 'xboxss'
-  | 'xboxsx';
+  | 'xboxsx'
+  // optimus waterblocks
+  | 'silver nickel'
+  | 'silver copper'
+  | 'black nickel'
+  | 'black copper'
 
 export type Model =
   | 'test:model'
@@ -326,7 +333,10 @@ export type Model =
   | 'xlr8 verto oc'
   | 'xlr8 verto'
   | 'xlr8'
-  | 'xtreme';
+  | 'xtreme'
+  //optimus
+  | 'signature v3'
+  | 'foundation'
 
 export type Link = {
   brand: Brand;
