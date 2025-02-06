@@ -66,6 +66,6 @@ export const OptimusPC: Store = {
         url: 'https://optimuspc.com/products/foundation-cpu-block-amd?variant=31139815718995',
       },
   ],
-  name: 'OptimusPC',
+  name: 'optimuspc',
   country: 'US',
 };
