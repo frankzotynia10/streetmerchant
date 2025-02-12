@@ -109,6 +109,7 @@ import {MSI} from './msi';
 import {Msy} from './msy';
 import {Multicom} from './multicom';
 import {Mwave} from './mwave';
+import {Ncased} from './ncased';
 import {NeoByte} from './neobyte';
 import {NetonnetNO} from './netonnet-no';
 import {Newegg} from './newegg';
@@ -286,6 +287,7 @@ export const storeList = new Map([
   [Msy.name, Msy],
   [Multicom.name, Multicom],
   [Mwave.name, Mwave],
+  [Ncased.name, Ncased],
   [NeoByte.name, NeoByte],
   [NetonnetNO.name, NetonnetNO],
   [Newegg.name, Newegg],

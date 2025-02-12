@@ -41,7 +41,8 @@ export type Brand =
   | 'xfx'
   | 'zotac'
   // optimus waterblocks
-  | 'optimus';
+  | 'optimus'
+  | 'ncased';
 
 export type Series =
   | 'test:series'
@@ -102,6 +103,7 @@ export type Series =
   | 'foundation-black-nickel'
   | 'foundation-black-copper'
   | 'flex-silver'
+  | 'm2-accessories'
 
 export type Model =
   | 'test:model'
@@ -341,6 +343,8 @@ export type Model =
   | 'signature-v3'
   | 'foundation'
   | 'fittings'
+  | 'window-kit'
+  | 'gpu-pcie-cable-kit'
 
 export type Link = {
   brand: Brand;
