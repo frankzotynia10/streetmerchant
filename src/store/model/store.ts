@@ -40,10 +40,6 @@ export type Brand =
   | 'ubiquiti'
   | 'xfx'
   | 'zotac'
-  // optimus waterblocks
-  | 'optimus'
-  | 'ncased'
-  | 'watercool';
 
 export type Series =
   | 'test:series'
@@ -95,19 +91,6 @@ export type Series =
   | 'unvr'
   | 'xboxss'
   | 'xboxsx'
-  | 'signature-v3-silver-nickel'
-  | 'signature-v3-silver-copper'
-  | 'signature-v3-black-nickel'
-  | 'signature-v3-black-copper'
-  | 'foundation-silver-nickel'
-  | 'foundation-silver-copper'
-  | 'foundation-black-nickel'
-  | 'foundation-black-copper'
-  | 'flex-silver'
-  | 'm2-accessories'
-  | 'radiator'
-  | 'reservoir'
-  | 'accessory'
 
 export type Model =
   | 'test:model'
@@ -344,14 +327,6 @@ export type Model =
   | 'xlr8 verto'
   | 'xlr8'
   | 'xtreme'
-  | 'signature-v3'
-  | 'foundation'
-  | 'fittings'
-  | 'window-kit'
-  | 'mo-ra-600-black'
-  | 'mo-ra-tank-275'
-  | 'mo-ra-tank-d5'
-  | 'mo-ra-passive-control'
 
 export type Link = {
   brand: Brand;

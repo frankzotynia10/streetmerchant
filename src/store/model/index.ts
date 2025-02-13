@@ -105,12 +105,10 @@ import {Microsoft} from './microsoft';
 import {MicrosoftCA} from './microsoft-ca';
 import {MightyApe} from './mightyape';
 import {Mindfactory} from './mindfactory';
-import {ModMyMods} from './modmymods';
 import {MSI} from './msi';
 import {Msy} from './msy';
 import {Multicom} from './multicom';
 import {Mwave} from './mwave';
-import {Ncased} from './ncased';
 import {NeoByte} from './neobyte';
 import {NetonnetNO} from './netonnet-no';
 import {Newegg} from './newegg';
@@ -127,7 +125,6 @@ import {NvidiaGB} from './nvidia-gb';
 import {OfficeDepot} from './officedepot';
 import {Ollo} from './ollo';
 import {Opirata} from './opirata';
-import {OptimusPC} from './optimuspc';
 import {Otto} from './otto';
 import {Overclockers} from './overclockers';
 import {PBTech} from './pbtech';
@@ -157,7 +154,6 @@ import {Store} from './store';
 import {StormComputers} from './storm';
 import {Target} from './target';
 import {TescoIE} from './tesco-ie';
-import {TitanRig} from './titanrig';
 import {TheWarehouse} from './thewarehouse';
 import {TopAchat} from './topachat';
 import {ToysRUs} from './toysrus';
@@ -285,13 +281,11 @@ export const storeList = new Map([
   [MicrosoftCA.name, MicrosoftCA],
   [MightyApe.name, MightyApe],
   [Mindfactory.name, Mindfactory],
-  [ModMyMods.name, ModMyMods], 
   [MSI.name, MSI],
   [Msy.name, Msy],
   [Multicom.name, Multicom],
   [Mwave.name, Mwave],
-  [Ncased.name, Ncased],
-  [NeoByte.name, NeoByte],
+   [NeoByte.name, NeoByte],
   [NetonnetNO.name, NetonnetNO],
   [Newegg.name, Newegg],
   [NeweggCa.name, NeweggCa],
@@ -307,7 +301,6 @@ export const storeList = new Map([
   [OfficeDepot.name, OfficeDepot],
   [Ollo.name, Ollo],
   [Opirata.name, Opirata],
-  [OptimusPC.name, OptimusPC],
   [Otto.name, Otto],
   [Overclockers.name, Overclockers],
   [PBTech.name, PBTech],
@@ -336,7 +329,6 @@ export const storeList = new Map([
   [StormComputers.name, StormComputers],
   [Target.name, Target],
   [TescoIE.name, TescoIE],
-  [TitanRig.name, TitanRig],
   [TheWarehouse.name, TheWarehouse],
   [TopAchat.name, TopAchat],
   [ToysRUs.name, ToysRUs],
