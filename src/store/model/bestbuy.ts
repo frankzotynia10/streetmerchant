@@ -817,6 +817,7 @@ export const BestBuy: Store = {
     {
       brand: 'asus',
       cartUrl: 'https://api.bestbuy.com/click/-/6613334/cart',
+      cartUrl: 'https://api.bestbuy.com/click/-/6613334/cart',
       model: 'tuf gaming oc',
       series: '5080',
       url: 'https://api.bestbuy.com/click/-/6613334/pdp',
