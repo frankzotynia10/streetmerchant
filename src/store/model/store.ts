@@ -42,7 +42,8 @@ export type Brand =
   | 'zotac'
   // optimus waterblocks
   | 'optimus'
-  | 'ncased';
+  | 'ncased'
+  | 'watercool';
 
 export type Series =
   | 'test:series'
@@ -104,6 +105,8 @@ export type Series =
   | 'foundation-black-copper'
   | 'flex-silver'
   | 'm2-accessories'
+  | 'radiator'
+  | 'reservoir'
 
 export type Model =
   | 'test:model'
@@ -344,7 +347,9 @@ export type Model =
   | 'foundation'
   | 'fittings'
   | 'window-kit'
-  | 'gpu-pcie-cable-kit'
+  | 'mo-ra-600-black'
+  | 'mo-ra-tank-275'
+  | 'mo-ra-tank-d5'
 
 export type Link = {
   brand: Brand;
