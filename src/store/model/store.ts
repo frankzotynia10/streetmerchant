@@ -107,6 +107,7 @@ export type Series =
   | 'm2-accessories'
   | 'radiator'
   | 'reservoir'
+  | 'accessory'
 
 export type Model =
   | 'test:model'
@@ -350,6 +351,7 @@ export type Model =
   | 'mo-ra-600-black'
   | 'mo-ra-tank-275'
   | 'mo-ra-tank-d5'
+  | 'mo-ra-passive-control'
 
 export type Link = {
   brand: Brand;
