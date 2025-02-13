@@ -105,6 +105,7 @@ import {Microsoft} from './microsoft';
 import {MicrosoftCA} from './microsoft-ca';
 import {MightyApe} from './mightyape';
 import {Mindfactory} from './mindfactory';
+import {ModMyMods} from './modmymods';
 import {MSI} from './msi';
 import {Msy} from './msy';
 import {Multicom} from './multicom';
@@ -284,6 +285,7 @@ export const storeList = new Map([
   [MicrosoftCA.name, MicrosoftCA],
   [MightyApe.name, MightyApe],
   [Mindfactory.name, Mindfactory],
+  [ModMyMods.name, ModMyMods], 
   [MSI.name, MSI],
   [Msy.name, Msy],
   [Multicom.name, Multicom],
